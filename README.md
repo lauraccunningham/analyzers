@@ -1,5 +1,5 @@
-Statistics 157, Earthquake Data 
+Statistics 157, Final Project
 ==================
 
-**Semester Project**
+**Earthquake Data, Analysis**
 -----
