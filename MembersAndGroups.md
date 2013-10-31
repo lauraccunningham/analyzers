@@ -1,12 +1,14 @@
 Analyzer Horiztonal: Members & Groups
 ==================
 
+Horizontal Group Breakdown
+-----
 _Name ( [GitHub Account Homepage](https://github.com) )_
   - _Group 1_
-    - John RISKO ( [johnrisko](http://github.com/johnrisko))
     - Laura CUNNINGHAM ( [lauraccunningham](https://github.com/lauraccunningham) )
-    - Tay Won SHIN ( [taywon](http://github.com/taywon) )
     - Disi KOA ( [gnolnait](http://github.com/gnolnait) )
+    - John RISKO ( [johnrisko](http://github.com/johnrisko))
+    - Tay Won SHIN ( [taywon](http://github.com/taywon) )
 
   - _Group 2_
     - Teresa TENFELDER ( [teresita](http://github.com/teresita) )
