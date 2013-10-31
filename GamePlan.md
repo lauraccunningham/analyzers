@@ -50,7 +50,7 @@ Stages:
 
 Diagramming the Workflow (see diagram below):
 
-![Diagramming Workflow, White Board drawing from Office Hours](https://raw.github.com/lauraccunningham/course-set-up/master/images/1%202013-10-27,%20Office%20Hours.jpg)
+![Diagramming Workflow, White Board drawing from Office Hours](https://raw.github.com/lauraccunningham/analyzers/master/images/1%202013-10-27,%20Office%20Hours.jpg)
 
   - Cloud of data from the real world
     - Data from the [Southern California Earthquake Center](http://www.scec.org/)
