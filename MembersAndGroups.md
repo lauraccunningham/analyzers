@@ -17,6 +17,6 @@ _Name ( [GitHub Account Homepage](https://github.com) )_
 
   - _Group 3_
     - Bonghyun KIM ( [bonghyun5](http://github.com/bonghyun5) )
-    - Yee Tung MAN ( [amx01](http://github.com/amx01) )
+    - Yee Tung "Alice" MAN ( [amx01](http://github.com/amx01) )
     - Alyssa PARKER ( [aparker92](http://github.com/aparker92) )
     - Qi ZHANG ( [qi-zhang](http://github.com/qi-zhang) )
