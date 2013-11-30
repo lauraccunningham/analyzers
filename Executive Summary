@@ -1,0 +1,22 @@
+This is an executive summary of our group's project in tackling the ETAS model. 
+
+Group Members:
+Laura Cunningham
+Disi Koa
+John Risko
+Tay Won Shin
+
+
+Goal:
+Our goal was to reproduce the ETAS model to have a benchmark to compare the MDA model against.
+
+Methods:
+When we began, we researched different ways in creating the ETAS output. We first examined the ETAS and SAPP packages in R. We determined that the SAPP package was more direct in giving us the information we needed. As we came to understand the package, we had our first major breakthrough: Disi had established a connection with Luen who provided us with the code to create the exact ETAS output we needed. As we had the code, there was no more need to employ the SAPP package as we just had to run the code to make sure it was reproducible.
+
+Achievements:
+Using Luen's code we can reproduce the outputs and error diagrams provided that the data fed to us has a magnitude of earthquake and duration. Any dataframe with these two categories can run through our code and produce error diagrams. Since the output is reproducible and flexible, we have achieved our goal of reproducing the ETAS model to test against the MDA model
+
+
+
+
+
