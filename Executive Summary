@@ -16,7 +16,11 @@ When we began, we researched different ways in creating the ETAS output. We firs
 Achievements:
 Using Luen's code we can reproduce the outputs and error diagrams provided that the data fed to us has a magnitude of earthquake and duration. Any dataframe with these two categories can run through our code and produce error diagrams. Since the output is reproducible and flexible, we have achieved our goal of reproducing the ETAS model to test against the MDA model.
 
-
+Problems Encountered:
+1) Deciding what package was more apt to do the project: SAPP vs. ETAS
+2) How do we even determine if ouy ETAS model is worth testing against? If our ETAS model was less efficient than the most effieicnt model, then the significance of the experiment decreases significantly.
+3) Once we recieved Luen's code, it was hard to get the intrinsic meaning of the code as it wasn't very reproducible
+4) Coordination among the group was difficult due to different schedules
 
 
 
